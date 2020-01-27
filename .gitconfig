@@ -1,6 +1,6 @@
 [alias]
   st = status
-  cm = commit
+  cmm = commit -m
   l  = log
   di = diff
   br = branch
